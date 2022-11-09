@@ -2,7 +2,7 @@
 
 Sample implementation of Ethereum message signing utilising keccak256 hashing for better efficiency and security.
 
-For the full guide on Medium, please refer:
+For the full guide on Medium, please refer: https://medium.com/@kaishinaw/signing-and-verifying-ethereum-hashed-messages-fefa46a746f2
 
 As Ethers.Js will be running in the browser, we will need to compile the `.ts` files in order to `browserify` it to be served on the browser:
 ```
